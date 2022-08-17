@@ -1,2 +1,1 @@
-# crypto_dashboard2
-Version_to_test_for_Prof_friends
+# crypto
